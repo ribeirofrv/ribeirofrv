@@ -1,6 +1,6 @@
 # Opa! Tudo bem? :ok_woman:
 
-### Eu sou a Fran :stuck_out_tongue_closed_eyes:
+### Eu sou a Francisca Vanessa :stuck_out_tongue_closed_eyes:
 
 - 🔭 Sou Estudante de Desenvolvimento de Sofware na Trybe
 
@@ -69,10 +69,5 @@
     href="https://www.linkedin.com/in/ribeirofrv/" target="_blank">
     <img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a
-    href="https://www.twitter.com/ribeirofrv">
-      <img
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
