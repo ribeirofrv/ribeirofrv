@@ -1,31 +1,32 @@
 # Opa! Tudo bem? :ok_woman:
 
-### Eu sou a Francisca Vanessa :stuck_out_tongue_closed_eyes:
+### Eu sou a Francisca Vanessa :sparkles:
 
-- 🔭 Sou Estudante de Desenvolvimento de Sofware na Trybe
+- :books: Sou Estudante de Desenvolvimento Web na Trybe
 
-- 🌱 Estou aprendendo React
+- :nerd_face: Estou aprendendo Desenvolvimento Back-end
 
 - :unicorn: _Pronomes:_ Ela/Dela
 
+- :two_hearts: Mãe do Roger :baby: && Luffy :dog: && Sasha :dog:
+
+- 📫 **ribeirofrv@gmail.com**
+
 <br
 />
-<div
->
-  <a
-    href="https://github.com/ribeirofrv">
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=ribeirofrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirofrv&layout=compact&langs_count=8&theme=dracula"/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirofrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirofrv&layout=compact&langs_count=10&theme=dracula"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
-<div
- style="display: inline_block">
- <br
- >
+<br
+/>
+
+<div align="center">
+  <h3>Tecnologias</h3>
   <img
     align="center"
     alt="Fran-linux" height="30" width="40"
