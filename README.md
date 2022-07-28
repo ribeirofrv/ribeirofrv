@@ -16,8 +16,8 @@
 />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirofrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirofrv&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirofrv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirofrv&hide=handlebars&layout=compact&langs_count=10&theme=aura"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
@@ -26,35 +26,14 @@
 />
 
 <div align="center">
-  <h3>Tecnologias</h3>
-  <img
-    align="center"
-    alt="Fran-linux" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img
-    align="center"
-    alt="Fran-Js" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img
-    align="center"
-    alt="Fran-React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img
-    align="center"
-    alt="Fran-Node" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img
-    align="center"
-    alt="Fran-HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img
-    align="center"
-    alt="Fran-CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img
-    align="center"
-    alt="Fran-Jest" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  
 </div>
 
 ##
