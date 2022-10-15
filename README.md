@@ -1,6 +1,6 @@
 # Opa! Tudo bem? :ok_woman:
 
-<img align="right" width="400" src="https://media.tenor.com/RXQDlHto03EAAAAC/chopper-shookt.gif" />
+<img align="right" width="380" src="https://media.tenor.com/RXQDlHto03EAAAAC/chopper-shookt.gif" />
 
 ### Eu sou a Fran :sparkles:
 
