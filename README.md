@@ -6,7 +6,7 @@
  
  📚 Sou estudante na [Trybe](https://www.betrybe.com/)
 
- :nerd_face: Estou aprendendo Java
+ :nerd_face: Estou aprendendo Python
 
  :unicorn: _Pronomes:_ Ela/Dela
 
