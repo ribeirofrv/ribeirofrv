@@ -10,7 +10,7 @@
 
  :unicorn: _Pronomes:_ Ela/Dela
 
- :two_hearts: Mãe do Roger :baby: Luffy :dog: Sasha :dog:
+ :two_hearts: Mãe do Roger :baby: e do Luffy :dog:
 
  📫 _e-mail:_ **ribeirofrv@gmail.com**
 
