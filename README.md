@@ -3,8 +3,6 @@
 <img align="right" width="380" src="https://media.tenor.com/RXQDlHto03EAAAAC/chopper-shookt.gif" />
 
  👩‍💻 Desenvolvedora Web Fullstack
- 
- 📚 Sou estudante na [Trybe](https://www.betrybe.com/)
 
  :nerd_face: Estou aprendendo Python
 
