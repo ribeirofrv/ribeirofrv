@@ -4,7 +4,7 @@
 
  👩‍💻 Desenvolvedora Web Fullstack
 
- :nerd_face: Estou aprendendo Python
+ :nerd_face: Estou aprendendo PHP/Laravel
 
  :unicorn: _Pronomes:_ Ela/Dela
 
