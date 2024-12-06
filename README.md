@@ -1,48 +1,41 @@
-<h1 align="center"> Opa! Tudo bem? :ok_woman: <br> Pode me chamar de Fran :sparkles: </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=667FE3&size=24&center=true&vCenter=true&width=600&lines=Olá,+sou+a+Fran!+👋;Desenvolvedora+Web+Fullstack!;Apaixonada+por+Tecnologia+e+Inovação!" />
+</p>
 
-<img align="right" width="380" src="https://media.tenor.com/RXQDlHto03EAAAAC/chopper-shookt.gif" />
+<h1 align="center">Oi, tudo bem? Sou a Fran! 👩‍💻</h1>
 
- 👩‍💻 Desenvolvedora Web Fullstack
-
- :nerd_face: Estou aprendendo PHP/Laravel
-
- :unicorn: _Pronomes:_ Ela/Dela
-
- :two_hearts: Mãe do Roger :baby:
-
- 📫 _e-mail:_ **ribeirofrv@gmail.com**
-
-<br
-/>
+<p align="center">Desenvolvedora Web Fullstack | Explorando Laravel e PHP | Apaixonada por solucionar problemas com código 💡</p>
 
 <div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirofrv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirofrv&hide=handlebars&layout=compact&langs_count=10&theme=aura"/> <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ribeirofrv&theme=tokyonight"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirofrv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ribeirofrv&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirofrv&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
-<br
-/>
+<h2 align="center">Minhas Skills 🚀</h2>
 
 <div align="center">
-  <h2 align="center">Linguagens e Ferramentas</h2>
+  <h3>Linguagens</h3>
 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+
+  <h3>Frameworks</h3>
+
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+  ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat-square)
+
+  <h3>Banco de Dados</h3>
   
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+  ![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white&style=flat-square)
   
-  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-  
+  <h3>Ferramentas</h3>
+
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 </div>
 
 <h2 align="center">Onde me encontrar</h2>
